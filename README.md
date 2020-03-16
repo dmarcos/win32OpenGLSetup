@@ -2,7 +2,7 @@
 
 Setting up OpenGL on Win32 from scratch. No GLEW / GLFW / GLU or any other helper libraries.
 
-Inspired by [Handmade Hero](https://handmadehero.org/)
+Credit to [Handmade Hero](https://handmadehero.org/)
 
 # Build Steps
 
