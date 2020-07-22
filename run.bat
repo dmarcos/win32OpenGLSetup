@@ -2,7 +2,7 @@
 
 pushd build
 
-taskkill /IM win32_dali.exe 2> nul
-START /B win32_dali.exe
+taskkill /IM win32_opengl.exe 2> nul
+START /B win32_opengl.exe
 
 popd
